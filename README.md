@@ -1,4 +1,4 @@
-# IIT-Analytics_dbms_project
+# IIT-Analytics-dbms-project
 
 #To_setup_the_project
 
